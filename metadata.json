@@ -1,0 +1,6 @@
+{
+  "name": "AURA — Fine Dining Restaurant",
+  "description": "An exquisite modern fine-dining experience featuring seasonal tasting menus, artisanal culinary craft, and luxury atmospheric hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
